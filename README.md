@@ -12,5 +12,12 @@ LiKeYun 付费进群系统是一个专注于知识付费、社群运营、社群
 
 <img src="http://p18.qhimg.com/t013d935cfa96ed0376.jpg" /> <br/>
 
+# 收费
+
+构建版：免费 <br/>
+Vue源码：199元 <br/><br/>
+
+构建版及通过Vue源码编译的，无法进行二次开发，Vue源码可以二次开发。
+
 # 作者
 TANKING
